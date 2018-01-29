@@ -1,0 +1,24 @@
+.head {
+    background-color: #4aaaa5;
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.header1 {
+    color: #4aaaa5;
+    border-bottom: 1px solid #ddd; 
+}
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.colborder {
+    border: 1px solid;
+    float: left;
+
+}
